@@ -1,0 +1,9 @@
+Steps to RUN Program:
+Step-1  Go to Documents, then select MATLAB root directory
+Step-2  Create New FOLDER in MATLAB directory
+Step-3 Open MATLAB
+Step-4  Go to New or Open any pre-existing Script or import that folder by opening with MATLAB
+Step-5 Write required code in EDITOR window.
+Step-6 Click on RUN to run the command
+Step-7 You will get the output result in Command window
+[NOTE:- Image must be stored in the same root directory folder of MATLAB which you have imported.]
