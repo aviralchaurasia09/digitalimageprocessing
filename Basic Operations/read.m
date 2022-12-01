@@ -1,0 +1,1 @@
+r = imread('penguin.jpg');
